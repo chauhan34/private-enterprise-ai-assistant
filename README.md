@@ -56,10 +56,10 @@ This application demonstrates how organizations can securely search and interact
 * API integration layer
 
 ## Screenshots
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image.png)
-(Add screenshots here)
+semantic-search-ai-answer1
+semantic-search-ai-answer2
+semantic-search-ai-answer3
+
 
 ## Disclaimer
 
